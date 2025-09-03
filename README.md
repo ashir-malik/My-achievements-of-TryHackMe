@@ -34,7 +34,7 @@ I’m sharing my progress, notes, and achievements as I work towards building re
 ---
 
 ## 📌 Final Thoughts  
-This repo is not about being perfect — it’s about showing my **commitment, consistency, and curiosity**.  
+This repo is not about being perfect, it's just about showing my **commitment, consistency, and curiosity**.  
 Every Saturday and Sunday, I dedicate time to labs and update my progress here. Step by step, I’m building the skills I need for my future.  
 
 ---
