@@ -46,9 +46,9 @@ This really showed me how important good logging and visibility are. Without log
 
 ## 📝 Personal Notes
 
-I’ve mostly been focused on the offensive side of cybersecurity so far, but this gave me a whole new appreciation for the blue team. Defenders don’t just sit around waiting for alerts — there’s a lot of strategy involved in building strong defenses and spotting subtle signs of attacks.
+I’ve mostly been focused on the offensive side of cybersecurity so far, but this gave me a whole new appreciation for the blue team. Defenders don’t just sit around waiting for alerts, there’s a lot of strategy involved in building strong defenses and spotting subtle signs of attacks.
 
-Also realized how much attackers rely on defenders being lazy or misconfigured — things like missing logs, open ports, weak alerting rules. Every gap is an opportunity for attackers.
+Also realized how much attackers rely on defenders being lazy or misconfigured, things like missing logs, open ports, weak alerting rules. Every gap is an opportunity for attackers.
 
 Now I understand that:
 *“You can’t defend what you don’t understand.”*
