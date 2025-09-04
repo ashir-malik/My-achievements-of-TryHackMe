@@ -1,6 +1,6 @@
 # Room: Intro to Defensive Security  
-**Platform:** TryHackMe
-**Difficulty:** Beginner 
+**Platform:** TryHackMe  
+**Difficulty:** Beginner  
 **Date Completed:** 30th August 2025 
 
 ## 🔑 Key Learnings
