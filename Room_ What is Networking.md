@@ -15,7 +15,8 @@ I used `ping` to see if a device is reachable.
 I also learned how data is broken into packets, sent across the network, and put back together.  
 
 ## How I tried the ping command on the VM  
-
+- I first typed in the command:
+<
 
 ## Why It Matters
 Networking is the backbone of cybersecurity. Without knowing IPs, ports, and protocols, you can’t secure or attack systems. This room gave me my first real step toward understanding how devices connect and how I can analyze traffic or defend against threats.
