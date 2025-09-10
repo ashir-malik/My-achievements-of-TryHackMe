@@ -5,10 +5,10 @@
 
 ---
 
-## Room Summary
+## 🗒️Room Summary
 This TryHackMe room explained the basics of networking and how computers talk to each other and how the internet works. I learned about IP addresses, MAC addresses, and ports, and how they all connect to make communication possible.  
 
-## Key Takeaways
+## 🔑Key Takeaways
 IP addresses are like a home address for devices.  
 MAC addresses are unique hardware IDs that never change.  
 Ports are like doors that let services and apps talk to each other, for example port 80 for websites.  
