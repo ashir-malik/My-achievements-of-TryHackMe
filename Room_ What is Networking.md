@@ -1,3 +1,10 @@
+# Room: Careers in Cybersecurity  
+**Platform:** TryHackMe  
+**Difficulty:** Beginner  
+**Date Completed:** 30th August 2025  
+
+---
+
 # What is Networking? 🌐
 
 ## Room Summary
