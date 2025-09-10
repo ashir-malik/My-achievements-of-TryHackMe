@@ -1,11 +1,9 @@
-# Room: Careers in Cybersecurity  
+# Room: What is Networking?
 **Platform:** TryHackMe  
 **Difficulty:** Beginner  
-**Date Completed:** 30th August 2025  
+**Date Completed:** 7th September 2025  
 
 ---
-
-# What is Networking? 🌐
 
 ## Room Summary
 This TryHackMe room explained the basics of networking and how computers talk to each other and how the internet works. I learned about IP addresses, MAC addresses, and ports, and how they all connect to make communication possible.  
