@@ -20,7 +20,12 @@ Star topology is one of the expensive as compared to other topologies because it
 Ring topology or also called a token topology, uses only cables to connect devices in a circle. It has lack of privacy and the network goes down if the cable is damaged.
 
 ## Some screenshots here
-----
+- Here is the ring topology:
+![Ring-Topology](/images/topo1.png)
+- Here is the bus topology where I sent multiple requests to crash the network:
+![Bus-Topology](/images/topo2.png)
+- Here is the star topology:
+![Star-Topology](/images/topo3.png)  
 
 ## Why topologies matter 
 Networking is the backbone of cybersecurity. Different topologies serve different purposes, and that's why they have to be implemented in a different and suitable environment.
