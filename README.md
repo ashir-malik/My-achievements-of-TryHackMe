@@ -26,7 +26,7 @@ I’m sharing my progress, notes, and achievements as I work towards building re
 - [x] Intro to Defensive Security  
 - [x] Careers in Cybersecurity  
 - [ ] Linux Fundamentals 1, 2, 3  
-- [ ] Network Fundamentals  
+- [x] Network Fundamentals  
 - [ ] Web Fundamentals  
 
 *(I’ll keep updating this checklist as I move forward)*  
