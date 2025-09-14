@@ -17,7 +17,8 @@ The practical in this room was about firewalls and routing. I blocked a device t
 ## Some screenshots here    
 - Here is how I blocked a device trying to conduct a DOS attack on our server:
 ![firewall](images/eyn1.png)
+![firewall](images/eyn2.png)
 - I also learnt how a packet travels via rotuing with the help of built-in routing simulator:
-![routing](images/eyn2.png)
+![routing](images/eyn3.png)
 ## Why extending our network matters especially in CyberSecurity  
 Networks don’t just need to be extended, they also need to be protected. VLANs organize the traffic, switches and routers expand the network, and firewalls keep it safe from threats.
