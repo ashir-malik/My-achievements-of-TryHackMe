@@ -23,7 +23,9 @@ This TryHackMe room explained how data is broken down and sent across networks u
 ## Some screenshots here  
 - Here I understood the three-way handshake that occurs during a tcp connection between two devices with the help of THM side-quest:  
 ![Packet-Example](/images/tcp2.png)  
-- I also used netcat to try to connect to an IP Address with a port too:  
+- I also used netcat to try to connect to an IP Address with a port too by using the command
+<pre>nc 8.8.8.8 1234</pre>  
+also shown below:
 ![Frame-Example](/images/tcp3.png)  
 
 ## Why packets and frames matter  
