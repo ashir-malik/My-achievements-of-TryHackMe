@@ -16,10 +16,10 @@ The exercises helped me trace a request from start to finish. I could see how a 
 
 ## Some screenshots here
 - The built-in 'quiz' type thingy helped me grasp the concept of how a user request is proccessed:
-![Exercise](images/ex1.png)
-- The second part of the same exercise:
-![Exercise](images/ex2.png)
-- The third part of the same exercise:
+![Exercise](images/ex1.png)  
+- The second part of the same exercise:  
+![Exercise](images/ex2.png)  
+- The third part of the same exercise:  
 ![Exercise](images/ex3.png)    
 
 ## Why this matters
