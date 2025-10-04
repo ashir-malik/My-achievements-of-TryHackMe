@@ -25,7 +25,8 @@ I’m sharing my progress, notes, and achievements as I work towards building re
 - [x] Intro to Offensive Security  
 - [x] Intro to Defensive Security  
 - [x] Careers in Cybersecurity  
-- [ ] Linux Fundamentals 1, 2, 3  
+- [x] Linux Fundamentals 1, 2, 3
+- [ ] Windows Fundamentals 1, 2, 3   
 - [x] Network Fundamentals  
 - [x] Web Fundamentals  
 
